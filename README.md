@@ -17,7 +17,7 @@ SCRIPTER는 자막을 이용해 영어를 공부할 수 있는 웹사이트입�
 
 ### ⚽️ NSfootballServer
 
--*축구 일정 관리 어플리케이션: NSfootball*
+-*스포일러 없는 축구 일정 어플리케이션: NSfootball*
 
 [![GitHub stars](https://img.shields.io/github/stars/ksaw1228/NSfootballServer)](https://github.com/ksaw1228/NSfootballServer)
 [![GitHub forks](https://img.shields.io/github/forks/ksaw1228/NSfootballServer)](https://github.com/ksaw1228/NSfootballServer)
