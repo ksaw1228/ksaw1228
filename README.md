@@ -6,7 +6,7 @@
 
 -*자막 영어공부 웹사이트*
 
-_[🔗 프로젝트 바로가기](https://github.com/ksaw1228/SCRIPTER)_
+_[🔗 프로젝트 바로가기](https://github.com/ksaw1228/SCRIPTER2.0)_
 
 SCRIPTER는 🎥영화나 📺미드의 자막을 이용해 영어를 공부할 수 있는 웹사이트입니다. 재미있게 영어 공부를 시작해 보세요!
 
